@@ -2,3 +2,4 @@ Datum 1
 Datum 2
 Datum 3
 Datum 4 <-- neu und nicht in Daten.txt enthalten
+noch eine Zeile
